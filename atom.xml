@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Harry's World!]]></title>
+  <subtitle><![CDATA[import this]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://xiongharry.com//"/>
+  <updated>2014-03-15T12:00:23.109Z</updated>
+  <id>http://xiongharry.com//</id>
+  
+  <author>
+    <name><![CDATA[Harry Xiong]]></name>
+    <email><![CDATA[xiongharry#gmail]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[新站开张]]></title>
+    <link href="http://xiongharry.com/2014/03/15/new-start/"/>
+    <id>http://xiongharry.com/2014/03/15/new-start/</id>
+    <published>2014-03-15T08:59:53.000Z</published>
+    <updated>2014-03-15T11:00:50.000Z</updated>
+    <content type="html"><![CDATA[<p>新站开张!</p>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>
