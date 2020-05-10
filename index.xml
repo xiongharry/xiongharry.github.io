@@ -8,28 +8,9 @@
     <language>zh-cn</language>
     <managingEditor>xiongharry@gmail.com (Harry)</managingEditor>
     <webMaster>xiongharry@gmail.com (Harry)</webMaster>
-    <lastBuildDate>Mon, 07 Mar 2016 00:35:46 +0800</lastBuildDate>
     
 	<atom:link href="http://xiongharry.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>关于</title>
-      <link>http://xiongharry.github.io/about/</link>
-      <pubDate>Mon, 07 Mar 2016 00:35:46 +0800</pubDate>
-      <author>xiongharry@gmail.com (Harry)</author>
-      <guid>http://xiongharry.github.io/about/</guid>
-      <description>import this</description>
-    </item>
-    
-    <item>
-      <title>欢迎</title>
-      <link>http://xiongharry.github.io/post/welcome/</link>
-      <pubDate>Sun, 06 Mar 2016 23:53:12 +0800</pubDate>
-      <author>xiongharry@gmail.com (Harry)</author>
-      <guid>http://xiongharry.github.io/post/welcome/</guid>
-      <description>博客再次开张！</description>
-    </item>
     
   </channel>
 </rss>
