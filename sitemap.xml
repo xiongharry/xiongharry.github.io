@@ -1,11 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://xiongharry.github.io/</loc>
-    <lastmod>2016-03-07T00:35:46+08:00</lastmod>
-    <priority>0</priority>
-  </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://xiongharry.github.io/about/</loc>
@@ -13,8 +8,26 @@
   </url>
   
   <url>
+    <loc>http://xiongharry.github.io/</loc>
+    <lastmod>2016-03-07T00:35:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xiongharry.github.io/post/</loc>
+    <lastmod>2016-03-06T23:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://xiongharry.github.io/post/welcome/</loc>
     <lastmod>2016-03-06T23:53:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://xiongharry.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://xiongharry.github.io/tags/</loc>
   </url>
   
 </urlset>

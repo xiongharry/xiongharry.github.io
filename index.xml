@@ -1,15 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>小熊谷听</title>
+    <title>小熊</title>
     <link>http://xiongharry.github.io/</link>
-    <description>Recent content on 小熊谷听</description>
+    <description>Recent content on 小熊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>xiongharry@gmail.com (Harry)</managingEditor>
     <webMaster>xiongharry@gmail.com (Harry)</webMaster>
     <lastBuildDate>Mon, 07 Mar 2016 00:35:46 +0800</lastBuildDate>
-    <atom:link href="http://xiongharry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://xiongharry.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>关于</title>
@@ -17,8 +19,7 @@
       <pubDate>Mon, 07 Mar 2016 00:35:46 +0800</pubDate>
       <author>xiongharry@gmail.com (Harry)</author>
       <guid>http://xiongharry.github.io/about/</guid>
-      <description>&lt;p&gt;import this&lt;/p&gt;
-</description>
+      <description>import this</description>
     </item>
     
     <item>
@@ -27,8 +28,7 @@
       <pubDate>Sun, 06 Mar 2016 23:53:12 +0800</pubDate>
       <author>xiongharry@gmail.com (Harry)</author>
       <guid>http://xiongharry.github.io/post/welcome/</guid>
-      <description>&lt;p&gt;博客再次开张！&lt;/p&gt;
-</description>
+      <description>博客再次开张！</description>
     </item>
     
   </channel>
